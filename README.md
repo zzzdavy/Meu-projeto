@@ -1,14 +1,18 @@
-# 🚀 Meu Primeiro Projeto com Git
+# 🚀 Meu Primeiro Projeto com Git e HTML
 
-Este é um site simples em HTML criado para praticar o uso de tags básicas e o fluxo de versionamento usando o terminal com Git e GitHub.
+Este é um projeto prático focado no aprendizado das ferramentas essenciais de desenvolvimento web e controle de versão. 
 
-## 🛠️ Tecnologias Utilizadas
+---
 
-* **HTML5**
-* **Git & GitHub**
+## 🛠️ O que foi desenvolvido e aprendido:
 
-## 📌 O que aprendi até agora
+### 🌐 HTML Estrutural
+- Criação e estruturação básica de uma página web com tags `<h1>` e `<p>`.
 
-* Como usar o terminal integrado do VS Code.
-* A importância dos espaços nos comandos do Git.
-* O fluxo completo de atualização (`add`, `commit` e `push`).
+### 🐙 Controle de Versão com Git & GitHub
+Durante o desenvolvimento deste projeto, dominei o fluxo completo de versionamento:
+- **Clonagem:** Como trazer repositórios remotos para a máquina local com `git clone`.
+- **Fluxo de Trabalho Diário:** Gerenciamento de alterações locais utilizando `git status`, `git add` e `git commit`.
+- **Sincronização:** Envio de atualizações seguras para o GitHub através do `git push`.
+- **Navegação de Histórico:** Exploração de branches e reversão de estados com `git checkout`.
+- **Resolução de Conflitos:** Simulação prática e resolução de divergências de código estrutural em merges de branches distintas.
